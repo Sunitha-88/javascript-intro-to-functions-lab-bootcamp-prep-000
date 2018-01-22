@@ -21,6 +21,8 @@ function logShout(string){
 		 console.log(spyOn())
 }
 
+logShout('HELLO').spy;
+logShout('hello').spyOn(console,'log');
 
 logShout('HELLO').spy;
 logShout('hello').spyOn(console,'log');
