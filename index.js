@@ -11,8 +11,9 @@ function logShout(string){
 		var upperCase = string.toUpperCase();
 		if(upperCase === string){
 			const spy=spyOn(console,'log'){
+			  	console.log(spy);
 				}
-			console.log(spy);
+		
 			}
 
 		var lowerCase = string.toLowerCase();
