@@ -16,11 +16,9 @@ function logShout(string){
 		
 			}
 
-		var lowerCase = string.toLowerCase();
+		 var lowerCase = string.toLowerCase();
 		
-			console.log(spyOn())
-			
-
+		 console.log(spyOn())
 }
 
 
